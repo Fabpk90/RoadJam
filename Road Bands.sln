@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Road Bands.Plugins", "Road Bands.Plugins.csproj", "{BD3AF6DE-5509-101E-8D9A-3836C85426C3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Road Bands", "Road Bands.csproj", "{A2D7EEE2-F95F-5518-A7A9-99C3362E288F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Road Bands.Editor.Plugins", "Road Bands.Editor.Plugins.csproj", "{AD5EBCCB-C8FB-E72F-6F83-B1F57ABF3B7F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Road Bands.Editor", "Road Bands.Editor.csproj", "{052D1789-95CD-DCF8-7043-0A52F141FCB1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BD3AF6DE-5509-101E-8D9A-3836C85426C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD3AF6DE-5509-101E-8D9A-3836C85426C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD3AF6DE-5509-101E-8D9A-3836C85426C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD3AF6DE-5509-101E-8D9A-3836C85426C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2D7EEE2-F95F-5518-A7A9-99C3362E288F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2D7EEE2-F95F-5518-A7A9-99C3362E288F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2D7EEE2-F95F-5518-A7A9-99C3362E288F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2D7EEE2-F95F-5518-A7A9-99C3362E288F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD5EBCCB-C8FB-E72F-6F83-B1F57ABF3B7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD5EBCCB-C8FB-E72F-6F83-B1F57ABF3B7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD5EBCCB-C8FB-E72F-6F83-B1F57ABF3B7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD5EBCCB-C8FB-E72F-6F83-B1F57ABF3B7F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{052D1789-95CD-DCF8-7043-0A52F141FCB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{052D1789-95CD-DCF8-7043-0A52F141FCB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{052D1789-95CD-DCF8-7043-0A52F141FCB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{052D1789-95CD-DCF8-7043-0A52F141FCB1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
